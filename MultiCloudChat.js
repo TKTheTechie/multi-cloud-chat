@@ -33,17 +33,17 @@ var vpnSettings = {
 
 var cloudPropertiesMap = {
     "aws": {
-        "host":"ws://35.170.70.251:21155",
+        "host":"ws://x.x.x.x:port",
         "up": true,
         "connected":false
     },
     "gcp": {
-      "host":"ws://35.185.41.141:21155",
+        "host":"ws://x.x.x.x:port",
       "up":true,
       "connected":false  
     },
     "azure": {
-        "host":"ws://13.82.214.46:21155",
+        "host":"ws://x.x.x.x:port",
         "up":true,
         "connected":false
     }
