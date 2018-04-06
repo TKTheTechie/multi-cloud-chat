@@ -45,5 +45,7 @@ var cloudPropertiesMap = {
 
 ```
 
+Download the solace javascript client libraries from [solace.com](https://products.solace.com/download/JS_API) and place it under the lib folder
+
 You should now will be able to chat across the clouds!
 
